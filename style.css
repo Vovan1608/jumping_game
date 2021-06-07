@@ -2,7 +2,7 @@
   width: 400px;
   height: 600px;
   position: relative;
-  background-color: #ff0;
+  background: url("./background.png");
   font-size: 200px;
   text-align: center;
 }
@@ -11,12 +11,12 @@
   width: 60px;
   height: 85px;
   position: absolute;
-  background-color: #f00;
+  background: url("./doodler-guy.png");
 }
 
 .platform {
   width: 85px;
   height: 15px;
   position: absolute;
-  background-color: #04dd04;
+  background: url("./platform.png");
 }
